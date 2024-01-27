@@ -86,17 +86,17 @@ Unreal engine editor               5hr 22mins mins █████████�
 Windows                      
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in C++** 
 
 ```text
-JavaScript               33 repos            ████████████░░░░░░░░░░░░░   47.83 % 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-TypeScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+C++                       2 repos             ████████████░░░░░░░░░░░░░   80 % 
+HTML CSS JS               1 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10 % 
+QT C++                    0 repos             ███░░░░░░░░░░░░░░░░░░░░░░   0 % 
+Python                    0 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   0 % 
+Unreal engine Bluperints  1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   10 % 
 ```
-In my free time you can find me playing games 🎮, building my own games 🤖, and learn new frameworks or libraries 🖨️.
+In my free time you can find me playing games 🎮, building my own games 🕹️, and learn new frameworks or libraries 📄.
 
 Let's connect! Find me on Twitter [@anuar](https://twitter.com/Goodnightpleas2) or [email me](mailto:anuarbro768@gmail.com).
 
-Fun fact: I built a mini electric go kart that goes 25 mph! 🏎️
+Fun fact: I like write novel and stories with genre like a:"Sci-fi,detective" 📖
