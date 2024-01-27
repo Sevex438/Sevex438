@@ -1,4 +1,4 @@
-<h2><img src="https://media.tenor.com/e8aElio9JQAAAAAi/mario-walking.gif" width="30"/> I'm Anuar Lukpanov! <img src="https://media.tenor.com/oxcXjvGW--YAAAAi/switch-cute.gif" width="50"></h2>
+<h2><img src="https://media.tenor.com/e8aElio9JQAAAAAi/mario-walking.gif" width="30"/> Hello I'm Anuar Lukpanov! <img src="https://media.tenor.com/oxcXjvGW--YAAAAi/switch-cute.gif" width="50"></h2>
 
 <p>
   <em>
