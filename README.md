@@ -6,7 +6,7 @@
   </em>  
 </p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/anuar?label=Follow)](https://twitter.com/anuar)
+[![Twitter Follow](https://img.shields.io/twitter/follow/anuar?label=Follow)]((https://twitter.com/Goodnightpleas2))
 [![GitHub followers](https://img.shields.io/github/followers/anuar?label=Follow&style=social)](https://github.com/anuar)
 
 I'm always exploring new technologies like Unreal Engine, C++, Python. Currently learning more about:
