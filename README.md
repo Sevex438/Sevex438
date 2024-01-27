@@ -29,9 +29,8 @@ const AboutMe = {
     
         databases: ["QSqllite", "MySql", "sqlite"],
     },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    funFact: "I like write novels or stories with genre like:sci-fi,detective"
 };
 ```
 
