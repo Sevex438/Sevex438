@@ -1,4 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.tenor.com/oxcXjvGW--YAAAAi/switch-cute.gif" width="50"></h2>
+<h2><img src="https://media.tenor.com/e8aElio9JQAAAAAi/mario-walking.gif" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.tenor.com/oxcXjvGW--YAAAAi/switch-cute.gif" width="50"></h2>
 
 <p>
   <em>
