@@ -1,5 +1,5 @@
 <h2><img src="https://media.tenor.com/e8aElio9JQAAAAAi/mario-walking.gif" width="30"/>
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B05A25&background=FFFFFF00&random=false&width=435&lines=Hello+Users%F0%9F%98%8A;I'm+Anuar+Lukpanov" alt="Typing SVG" /></a> <img src="https://media.tenor.com/oxcXjvGW--YAAAAi/switch-cute.gif" width="50"></h2>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=B05A25&background=FFFFFF00&random=false&width=435&lines=Hello+Users%F0%9F%98%8A;I'm+Anuar+Lukpanov!" alt="Typing SVG" /></a> <img src="https://media.tenor.com/oxcXjvGW--YAAAAi/switch-cute.gif" width="50"></h2>
 
 <p>
   <em>
