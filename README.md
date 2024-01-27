@@ -9,13 +9,16 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Goodnightpleas2?label=Follow)](https://twitter.com/intent/follow?screen_name=Goodnightpleas2)
 [![GitHub followers](https://img.shields.io/github/followers/Sevex438?label=Follow&style=social)](https://github.com/Sevex438)
 
-I'm always exploring new technologies like Unreal Engine, C++, Python. Currently learning more about:
+I'm always exploring new technologies like Unreal Engine, C++, Python,Qt,Front-end. Currently learning more about:
 
 - Multiplayer systems in UE5
 - AI and behavior trees
 - Vulkan graphics
 - Procedural generation
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+- Qt libraries
+- LLM models
+- LongChain
+### <img src="https://media.tenor.com/Cz21RmKstP4AAAAi/console-hug-there-there.gif" width="50"> A little more about me...  
 ```c++
 const AboutMe = {
     pronouns: "He" | "Him",
