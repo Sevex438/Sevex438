@@ -16,11 +16,27 @@ I'm always exploring new technologies like Unreal Engine, C++, Python. Currently
 - Vulkan graphics
 - Procedural generation
 
-Some projects I've worked on recently:
-
-- Built a simple 2D platformer game in UE5
-- Created a plugin for procedurally generating landscapes 
-- Experimented with GANs to generate game assets
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
 
 In my free time you can find me playing games 🎮, building electronics projects 🤖, and tinkering with 3D printing 🖨️.
 
