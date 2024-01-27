@@ -17,20 +17,17 @@ I'm always exploring new technologies like Unreal Engine, C++, Python. Currently
 - Procedural generation
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 ```c++
-const anmol = {
+const AboutMe = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["C++", "Python", "C++ Qt", "Unreal engine","HTML,CSS,JS"],
+    askMeAbout: ["web dev", "tech", "Qt dev", "movies","games"],
     technologies: {
         backEnd: {
-            js: ["Node", "Fastify", "Express"],
+            C++: ["OOP", "boost library", "Qt framework"],
         },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        
+    
+        databases: ["QSqllite", "MySql", "sqlite"],
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "No Focus point at this time",
