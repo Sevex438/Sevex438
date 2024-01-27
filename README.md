@@ -24,6 +24,6 @@ Some projects I've worked on recently:
 
 In my free time you can find me playing games 🎮, building electronics projects 🤖, and tinkering with 3D printing 🖨️.
 
-Let's connect! Find me on Twitter [@anuar](https://twitter.com/anuar) or [email me](mailto:anuar@example.com).
+Let's connect! Find me on Twitter [@anuar](https://twitter.com/Goodnightpleas2) or [email me](mailto:anuar@example.com).
 
 Fun fact: I built a mini electric go kart that goes 25 mph! 🏎️
