@@ -18,7 +18,7 @@ I'm always exploring new technologies like Unreal Engine, C++, Python,Qt,Front-e
 - Qt libraries
 - LLM models
 - LongChain
-### <img src="https://media.tenor.com/Cz21RmKstP4AAAAi/console-hug-there-there.gif" width="50"> A little more about me...  
+### <img src="https://media.tenor.com/F6gSWMftvIoAAAAi/undertale-disproportionately.gif" width="50"> A little more about me...  
 ```c++
 const AboutMe = {
     pronouns: "He" | "Him",
